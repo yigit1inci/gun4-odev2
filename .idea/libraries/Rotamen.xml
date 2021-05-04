@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Rotamen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Rotamen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.xml.soap-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.xml.soap-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
